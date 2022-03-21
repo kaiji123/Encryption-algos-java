@@ -1,0 +1,2 @@
+Well done. You have sucessfully decrypted a file encrypted with AES/CCM.
+Submit this f5fac307a361372797f9c802ffb15ae1
